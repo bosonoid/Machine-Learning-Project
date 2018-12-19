@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Machine-Learning-Project - Sentiment Analysis on Airline Tweets
 By Rundong Chen & Darren Tam- Group 28
 
 # Proposal
